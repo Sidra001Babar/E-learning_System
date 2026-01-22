@@ -1,18 +1,13 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
+# Ignore Python cache
+backend/__pycache__/
 
-# Environment files
+# Ignore environment file
 backend/.env
 
-# Uploads / media files
-uploads/
-media/
+# Ignore uploads
+backend/uploads/
+backend/migrations/
 
-# VS Code settings (optional)
+# Optional: ignore virtual environment and VS Code settings
+myvirenv/
 .vscode/
-
-# OS files
-.DS_Store
-Thumbs.db
