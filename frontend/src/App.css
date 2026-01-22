@@ -1,0 +1,39 @@
+body{
+    overflow: hidden;
+}
+@keyframes bounceX {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(12px); }
+}
+
+@keyframes handWave {
+  0% { transform: rotate(0deg); }
+  15% { transform: rotate(14deg); }
+  30% { transform: rotate(-8deg); }
+  45% { transform: rotate(14deg); }
+  60% { transform: rotate(-4deg); }
+  75% { transform: rotate(10deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.animate-handWave {
+  display: inline-block;
+  transform-origin: 70% 70%; /* pivot around the wrist */
+  animation: handWave 1.5s ease-in-out 2;
+}
+.sidebarZindex{
+  z-index: 1000;
+}
+/* Floating Up-Down Animation */
+@keyframes floatUpDown {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.float-animation {
+  animation: floatUpDown 3s ease-in-out infinite;
+}

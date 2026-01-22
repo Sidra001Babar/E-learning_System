@@ -1,0 +1,46 @@
+ .drop {
+      position: absolute;
+      width: 15px;
+      height: 15px;
+      border-radius: 50%;
+      background: rgba(0, 200, 255, 0.5);
+      animation: float 8s ease-in-out infinite;
+    }
+
+    /* Different sizes & delays for variety */
+    .drop:nth-child(odd) {
+      width: 10px;
+      height: 10px;
+      box-shadow: 0 0 10px rgba(218, 92, 235, 0.7);
+
+     background: linear-gradient(
+  90deg,
+  rgba(186, 85, 211, 0.6) 0%,   /* medium orchid */
+  rgba(255, 105, 180, 0.6) 50%, /* hot pink */
+  rgba(255, 182, 193, 0.6) 100% /* light pink */
+);
+
+      animation-duration: 10s;
+    }
+
+    .drop:nth-child(even) {
+      width: 20px;
+      height: 20px;
+      box-shadow: 0 0 10px rgba(226, 129, 65, 0.7);
+      background: linear-gradient(
+  90deg,
+  rgba(255, 69, 58, 0.6) 0%,    /* reddish tone */
+  rgba(255, 140, 0, 0.6) 50%,   /* orange */
+  rgba(255, 195, 113, 0.6) 100% /* light orange/peach */
+);
+      animation-duration: 12s;
+    }
+
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0) translateX(0) scale(1);
+      }
+      50% {
+        transform: translateY(-60px) translateX(40px) scale(1.2);
+      }
+    }
