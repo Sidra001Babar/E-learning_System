@@ -14,6 +14,20 @@ Teachers manage course content, assessments, and student engagement.
 Students enroll in courses, access learning material, and complete assessments.
 
 ---
+## 🔐 Authentication & Authorization
+
+### 🔑 Authentication
+- Secure **user registration & login**
+- Username/email + password authentication
+- Password hashing & encryption
+- Session-based / JWT-based authentication
+
+### 🛡️ Authorization (Role-Based Access Control)
+- **Teacher and Student have different access rights**
+- Teachers **cannot access student-only features**
+- Students **cannot create or manage course content**
+- Middleware enforces role-based permissions
+- Protected routes for sensitive actions
 
 ## 👨‍🏫 Teacher Module
 
