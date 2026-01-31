@@ -5,7 +5,7 @@ class Config:
     SQLALCHEMY_DATABASE_URI = os.getenv(
         # "DATABASE_URL","mysql+pymysql://root:NNKKquuifxCWJcbzOteunVbvDkBgRSQC@turntable.proxy.rlwy.net:46833/railway"
         "DATABASE_URL",
-        "mysql+pymysql://root:Sidra111Babar@localhost:3306/techstu_db"
+        "mysql+pymysql://root:yourPassword@localhost:3306/techstu_db"
     )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY", "jwtsecret")
