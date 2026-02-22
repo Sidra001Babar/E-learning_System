@@ -160,9 +160,9 @@ Create **interactive quizzes** with the following features:
 
 ### Announcement Management
 <p align="center" style="display:flex; justify-content:center; gap:10px";>
-<img width="300" height="220" alt="17" src="https://github.com/user-attachments/assets/4ba5d8a1-1036-40e2-8a11-b41d117c3014" />
+<img width="300" height="200" alt="17" src="https://github.com/user-attachments/assets/4ba5d8a1-1036-40e2-8a11-b41d117c3014" />
 <img  width="300" height="200" alt="18" src="https://github.com/user-attachments/assets/1e3e7207-0dfd-4051-bbd2-189442352f7b" />
-<img width="300" height="220" alt="19" src="https://github.com/user-attachments/assets/3aaf433d-db06-47f6-bc4a-bd8c60041911" />
+<img width="300" height="200" alt="19" src="https://github.com/user-attachments/assets/3aaf433d-db06-47f6-bc4a-bd8c60041911" />
 
 </p
   
@@ -200,10 +200,10 @@ Create **interactive quizzes** with the following features:
 </p>
 
 ### Announcement Management
-<p align="center">
- <img width="400" alt="5" src="https://github.com/user-attachments/assets/8779e0fb-a94d-4b77-a4f1-ac833e346829" />
- <img width="400" alt="6" src="https://github.com/user-attachments/assets/5aea3475-fc7b-4f95-8c00-0400790336e9" />
- <img width="400" alt="7" src="https://github.com/user-attachments/assets/ef34bee1-46da-4dae-93d3-fb29b71d925b" />
+<p align="center" style="display:flex; justify-content:center; gap:10px";>
+ <img  width="300" height="200" alt="5" src="https://github.com/user-attachments/assets/8779e0fb-a94d-4b77-a4f1-ac833e346829" />
+ <img  width="300" height="200" alt="6" src="https://github.com/user-attachments/assets/5aea3475-fc7b-4f95-8c00-0400790336e9" />
+ <img  width="300" height="200" alt="7" src="https://github.com/user-attachments/assets/ef34bee1-46da-4dae-93d3-fb29b71d925b" />
 
 
 </p>
@@ -216,7 +216,7 @@ Create **interactive quizzes** with the following features:
 </p>
 
 ### Quiz Management
-<p align="center">
+<p >
  <img width="400" alt="10" src="https://github.com/user-attachments/assets/37513174-587d-497d-8418-29da31e15180" />
  <img width="400" alt="13" src="https://github.com/user-attachments/assets/c2395bb7-4f06-419b-a0d0-e5660744d6ee" />
  <img width="400" alt="28" src="https://github.com/user-attachments/assets/28407fdb-94e8-4e3d-a457-c0c0c34d8e5c" />
