@@ -159,7 +159,7 @@ Create **interactive quizzes** with the following features:
 </p>
 
 ### Announcement Management
-<p align="center" style="display:flex; justify-content:center; gap:10px;>
+<p align="center" style="display:flex; justify-content:center; gap:10px";>
 <img width="300" height="200" alt="17" src="https://github.com/user-attachments/assets/4ba5d8a1-1036-40e2-8a11-b41d117c3014" />
 <img  width="300" height="200" alt="18" src="https://github.com/user-attachments/assets/1e3e7207-0dfd-4051-bbd2-189442352f7b" />
 <img width="300" height="200" alt="19" src="https://github.com/user-attachments/assets/3aaf433d-db06-47f6-bc4a-bd8c60041911" />
