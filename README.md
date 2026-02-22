@@ -161,16 +161,16 @@ Create **interactive quizzes** with the following features:
 ### Announcement Management
 <p align="center" style="display:flex; justify-content:center; gap:10px";>
 <img width="300" height="200" alt="17" src="https://github.com/user-attachments/assets/4ba5d8a1-1036-40e2-8a11-b41d117c3014" />
-<img  width="300" height="200" alt="18" src="https://github.com/user-attachments/assets/1e3e7207-0dfd-4051-bbd2-189442352f7b" />
+<img  width="300" height="180" alt="18" src="https://github.com/user-attachments/assets/1e3e7207-0dfd-4051-bbd2-189442352f7b" />
 <img width="300" height="200" alt="19" src="https://github.com/user-attachments/assets/3aaf433d-db06-47f6-bc4a-bd8c60041911" />
 
 </p
   
 ### Assignment Management
-<p align="center">
- <img width="400" alt="20" src="https://github.com/user-attachments/assets/01b34394-7e9b-4c8f-aeae-e8d079d0264a" />
-<img width="400" alt="21" src="https://github.com/user-attachments/assets/4578bc68-7069-44a2-9b38-a3bf0a148371" />
-<img width="400" alt="22" src="https://github.com/user-attachments/assets/d1560d06-2458-48ee-8886-19be2b041f49" />
+<p align="center" style="display:flex; justify-content:center; gap:10px";>
+ <img width="300" height="200" alt="20" src="https://github.com/user-attachments/assets/01b34394-7e9b-4c8f-aeae-e8d079d0264a" />
+<img width="300" height="200" alt="21" src="https://github.com/user-attachments/assets/4578bc68-7069-44a2-9b38-a3bf0a148371" />
+<img width="300" height="200" alt="22" src="https://github.com/user-attachments/assets/d1560d06-2458-48ee-8886-19be2b041f49" />
 </p>
 
 ### Quiz Management
