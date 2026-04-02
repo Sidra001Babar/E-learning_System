@@ -139,6 +139,10 @@ Create **interactive quizzes** with the following features:
 - Secure file uploads
 - Progress tracking dashboard
 - Notifications for deadlines & new content
+- ## 📧 Email Notifications System
+
+- Automatic email alerts for new announcements   
+- Helps students stay updated
 
 
 ---
